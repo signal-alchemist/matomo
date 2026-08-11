@@ -1,7 +1,0 @@
-{
-    "BotTracking": {
-        "PageUrl": "页面网址",
-        "NoDataHttpTrackingApi": "HTTP Tracking API",
-        "SiteWithoutDataBackToMatomo": "返回 Matomo"
-    }
-}
